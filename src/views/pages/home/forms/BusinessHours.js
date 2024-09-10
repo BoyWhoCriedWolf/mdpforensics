@@ -1,8 +1,6 @@
-import { Button, Grid } from "@mui/material";
-import { Directions } from "@mui/icons-material";
-import CustomTypo from "components/CustomTypo";
-import React from "react";
+import { Grid } from "@mui/material";
 import IMG_PROFILE from "assets/photos/2.jpg";
+import CustomTypo from "components/CustomTypo";
 
 export default function BusinessHours() {
   return (
